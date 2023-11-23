@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danco55
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning html/css/javascript
+- 👀 I’m interested in web and blockchain development
+- 🌱 I’m currently learning html/css/javascript and solidity
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me on github
 
